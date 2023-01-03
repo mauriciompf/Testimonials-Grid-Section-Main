@@ -188,3 +188,15 @@
     .img-perfil-five {
       background-image: url("../images/image-kira.jpg");
     }
+
+/* ============
+    Footer
+===============*/
+  .attribution {
+    font-size: 1rem;
+    text-align: center;
+  }
+
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
